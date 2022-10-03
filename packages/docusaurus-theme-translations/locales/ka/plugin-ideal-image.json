@@ -1,0 +1,7 @@
+{
+  "theme.IdealImageMessage.404error": "404. სურათი ვერ მოიძებნა",
+  "theme.IdealImageMessage.error": "შეცდომა. დააწკაპუნეთ გადატვირთვისათვის",
+  "theme.IdealImageMessage.load": "დააწკაპუნეთ, რათა ჩაიტვირთოს{sizeMessage}",
+  "theme.IdealImageMessage.loading": "იტვირთება...",
+  "theme.IdealImageMessage.offline": "თქვენი ბრაუზერი იმყოფება ავტონომიურ (ოფლაინ) რეჟიმში. სურათის ჩატვირთვა ვერ მოხერხდა"
+}
